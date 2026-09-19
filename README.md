@@ -91,4 +91,7 @@ The application uses the trained model saved as:
 
 `diabetes_model.pkl`
 
+--Live Demo--
+[Try the diabetes prediction system]
+https://diabetes-prediction-ml-g6vqwahapp32ujbxsbgdbcd.streamlit.app/
 
